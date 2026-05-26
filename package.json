@@ -1,0 +1,8 @@
+{
+  "name": "gov-comment-ingestor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Go ingestion control plane for government comment feeds, adapter drift, evidence lineage, and review-safe normalization across regulated docket workflows.",
+  "license": "AGPL-3.0-or-later"
+}
+
